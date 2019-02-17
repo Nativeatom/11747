@@ -1,1 +1,1 @@
-# 11747
+# 11-747 Neural Network for NLP
